@@ -3,6 +3,8 @@
 
 A Python package to api data fbref.com
 
+https://pypi.org/project/fbref-package/
+
 ## Usage
 
 ```python
