@@ -1,5 +1,7 @@
 
-# API Data fbref.com
+[Sports Data Campus](https://github.com/lucbra21/images/blob/main/sdc_logo.jpeg)
+
+# API Data fbref.com by Sports Data Campus
 
 A Python package to api data fbref.com
 
@@ -43,6 +45,8 @@ Al utilizar esta librería, usted reconoce y acepta estos términos.
 ## Pre install
 # !pip install sqlalchemy
 # !pip install pandas mysql-connector-python
+## En colab correr y luego reiniciar el kernel
+# !pip install --upgrade 'sqlalchemy<2.0'
 
 
 ## Import package
@@ -96,4 +100,6 @@ df_result
 
 
 ```
+
+By Sports Data Campus
 
