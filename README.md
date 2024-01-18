@@ -5,6 +5,28 @@ A Python package to api data fbref.com
 
 https://pypi.org/project/fbref-package/
 
+# Aviso Importante sobre el Uso de Datos de Deportes-Reference.com
+
+Esta librería está diseñada para facilitar el acceso a los datos disponibles en [Deportes-Reference.com](https://www.sports-reference.com/) con propósitos educativos y de investigación. Al utilizar esta librería, los usuarios deben adherirse a los siguientes términos y condiciones:
+
+## Atribución de Datos
+Todos los datos obtenidos a través de esta librería provienen de Deportes-Reference.com. Los usuarios deben asegurarse de atribuir claramente a Deportes-Reference.com como la fuente de los datos en cualquier publicación, análisis o proyecto donde se utilicen estos datos.
+
+## Uso No Comercial
+Esta librería se proporciona exclusivamente para uso no comercial. Cualquier uso de los datos obtenidos para propósitos comerciales está estrictamente prohibido.
+
+## Adherencia a los Términos de Uso de Deportes-Reference.com
+Se insta a los usuarios a revisar y seguir los términos de uso establecidos por Deportes-Reference.com, disponibles en [este enlace]([<Enlace a los términos de uso>](https://www.sports-reference.com/termsofuse.html?__hstc=218152582.fec85327c513cabac009730b02616118.1702551847368.1704787354268.1705570980226.7&__hssc=218152582.1.1705570980226&__hsfp=1018840319)). El uso indebido de los datos puede resultar en la violación de estos términos.
+
+## Prohibición de Uso Automatizado
+El uso de métodos automatizados, incluidos bots, scrapers o mineros de datos, para acceder a Deportes-Reference.com a través de esta librería, está prohibido a menos que se cuente con un permiso expreso por escrito del sitio.
+
+## Limitación de Responsabilidad
+El creador de esta librería no se hace responsable del mal uso de la misma ni de cualquier violación de los términos de uso de Deportes-Reference.com por parte de los usuarios. Los usuarios son responsables de asegurar que su uso de los datos cumple con todas las leyes y regulaciones aplicables.
+
+Al utilizar esta librería, usted reconoce y acepta estos términos.
+
+
 ## Usage
 
 ```python
