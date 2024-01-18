@@ -16,7 +16,7 @@ Todos los datos obtenidos a través de esta librería provienen de Deportes-Refe
 Esta librería se proporciona exclusivamente para uso no comercial. Cualquier uso de los datos obtenidos para propósitos comerciales está estrictamente prohibido.
 
 ## Adherencia a los Términos de Uso de Deportes-Reference.com
-Se insta a los usuarios a revisar y seguir los términos de uso establecidos por Deportes-Reference.com, disponibles en [este enlace]([Términos de uso>](https://www.sports-reference.com/termsofuse.html?__hstc=218152582.fec85327c513cabac009730b02616118.1702551847368.1704787354268.1705570980226.7&__hssc=218152582.1.1705570980226&__hsfp=1018840319)). El uso indebido de los datos puede resultar en la violación de estos términos.
+Se insta a los usuarios a revisar y seguir los términos de uso establecidos por Deportes-Reference.com, disponibles en [este enlace]([Términos de uso](https://www.sports-reference.com/termsofuse.html?__hstc=218152582.fec85327c513cabac009730b02616118.1702551847368.1704787354268.1705570980226.7&__hssc=218152582.1.1705570980226&__hsfp=1018840319)). El uso indebido de los datos puede resultar en la violación de estos términos.
 
 ## Prohibición de Uso Automatizado
 El uso de métodos automatizados, incluidos bots, scrapers o mineros de datos, para acceder a Deportes-Reference.com a través de esta librería, está prohibido a menos que se cuente con un permiso expreso por escrito del sitio.
