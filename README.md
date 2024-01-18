@@ -35,31 +35,37 @@ df_competition
 
 ## Ejemplo de uso 3
 # Obtenemos los partidos de una competicion en una temporada
+# df_result = getData(copetition_id, season, dataframe)
 df_result = getData('12', '2023-2024', 'matches')
 df_result
 
 ## Ejemplo de uso 4
 # Obtenemos el resumen por competicion y temporada
+# df_result = getData(copetition_id, season, dataframe)
 df_result = getData('12', '2023-2024', 'competition_summary')
 df_result
 
 ## Ejemplo de uso 5
 # Obtenemos el resumen de la competicion por equipo y temporada
+# df_result = getData(copetition_id, season, dataframe)
 df_result = getData('12', '2023-2024', 'competition_team_summary')
 df_result
 
 ## Ejemplo de uso 6
 # Obtenemos el resumen de la competicion por jugador y temporada
+# df_result = getData(copetition_id, season, dataframe)
 df_result = getData('12', '2023-2024', 'competition_player_summary')
 df_result
 
 ## Ejemplo de uso 7
 # Obtenemos el resumen de los jugadores por partido en la competicion y temporada
+# df_result = getData(copetition_id, season, dataframe)
 df_result = getData('12', '2023-2024', 'match_player_summary')
 df_result
 
 ## Ejemplo de uso 8
 # Obtenemos el resumen de los equipos por partido en la competicion y temporada
+# df_result = getData(copetition_id, season, dataframe)
 df_result = getData('12', '2023-2024', 'match_team_summary')
 df_result
 
